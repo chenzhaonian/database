@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/heima_ssm_dao" vcs="" />
+    <mapping directory="$PROJECT_DIR$/heima_ssm_domain" vcs="" />
+    <mapping directory="$PROJECT_DIR$/heima_ssm_service" vcs="" />
+    <mapping directory="$PROJECT_DIR$/heima_ssm_utils" vcs="" />
+    <mapping directory="$PROJECT_DIR$/heima_ssm_web" vcs="" />
+  </component>
+</project>
